@@ -1,3 +1,3 @@
-# Modelo_de_Ising_2D
+# Modelo de Ising 2D
 
 El código se hizo en Python3 en el formato de un cuaderno de Jupyter. Para poder correr este código en Windows es recomendable instalar Anaconda (https://www.anaconda.com/products/individual) y Visual Studio Code para la visualización del código y su compilación. En Linux es más sencillo dado que, una vez se intale Python3 con ejecutar "Jupyter Notebook" basta para que el compilador se abra en el navegador por defecto y se busque el código para entrar en él y ejecutarlo. Como requerimiento propio de Python se necesita que las librerías Numpy, Matplotlib y Random se encuentren instaladas. Para una visualización superficial del código (sin ejecución) basta con entrar al código dentro de este mismo repositorio de Github. También en el repositorio se encuentran las imágenes que se incluyeron en el artículo.
