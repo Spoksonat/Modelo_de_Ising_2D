@@ -14,7 +14,7 @@ En este repositorio se encuentra el código hecho para simular el modelo de Isin
 ## Acerca del Proyecto
 
 En este repositorio puede encontrar un cuaderno de Jupyter en el que se simula, usando el algoritmo de Monte-carlo/Metropolis, una red de espines de
-dos dimensiones. Variables físicas como la energía por espín y la magnetización por espin son halladas en cada iteración del algoritmo. Una explicación más clara de la física y lógica del código, así como los resultados de este proyecto, se encuentran en este [artículo](Artículo_Mecánica_Estadística.pdf). El código se encuentra en este [cuaderno de Jupyter](Algoritmo_Metropolis.ipynb).
+dos dimensiones. Variables físicas como la energía por espín y la magnetización por espin son halladas en cada iteración del algoritmo. Una explicación más clara de la física y lógica del código, así como los resultados de este proyecto, se encuentran en este [artículo](Articulo_Mecanica_Estadistica.pdf). El código se encuentra en este [cuaderno de Jupyter](Algoritmo_Metropolis.ipynb).
 
 ## Uso
 
